@@ -11,9 +11,9 @@ const pageText = {
    technologies like ReactJs / AngularJs and NodeJs. Apart from this, I am a music enthusiast
     I love playing guitar and producing my own music.`,
    
-  paraTwo: `Currently I working as a <b>Full Stack Developer </b> by using Javascript technologies like Angular  Js for  frontend and Spring Boot for Backend.
+  paraTwo: `Currently I am working as a <b>Full Stack Developer </b> by using Javascript technologies like Angular  Js for  frontend and Spring Boot for Backend.
   I also have hands on experience working with <b>React js </b> and <b>Node js</b> and have created several projects using these technologies.
-I am always open learn new thing and explore other technologies.
+I am always open to learn new thing and explore other technologies
 .`,
 };
 
