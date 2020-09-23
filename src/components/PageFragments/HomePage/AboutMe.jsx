@@ -8,12 +8,12 @@ import SEO from '../../Seo';
 const pageText = {
   paraOne: `Hi I am Kumar Harsh, a 22 year old passionate web developer from Ranchi ,Jharkhand .
   I love developing amazing websites using modern JavaScript 
-   technologies like ReactJs / AngularJs and NodeJs. Apart from this, I am a music enthusiast
+   technologies like ReactJs / Angular and NodeJs. Apart from this, I am a music enthusiast
     I love playing guitar and producing my own music.`,
    
-  paraTwo: `Currently I am working as a <b>Full Stack Developer </b> by using Javascript technologies like Angular  Js for  frontend and Spring Boot for Backend.
-  I also have hands on experience working with <b>React js </b> and <b>Node js</b> and have created several projects using these technologies.
-I am always open to learn new thing and explore other technologies
+  paraTwo: `Currently I am working as a <b>Full Stack Developer </b> by using Javascript technologies like Angular for frontend and Spring Boot for Backend.
+  I also have hands on experience working with <b>ReactJs </b> and <b>NodeJs</b> and have created several projects using these technologies.
+I am always open to learn and explore new technologies
 .`,
 };
 
