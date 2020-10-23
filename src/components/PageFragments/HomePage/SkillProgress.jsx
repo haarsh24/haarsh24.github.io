@@ -29,7 +29,7 @@ const SkillsProgress = () => (
       <Col xs={24} sm={24} md={12} >
         <ProgressBar
           percent={70}
-          text="Python"
+          text="Angular"
         />
         <ProgressBar
           percent={90}
@@ -41,7 +41,7 @@ const SkillsProgress = () => (
         />
         <ProgressBar
           percent={80}
-          text="dotNet"
+          text="BootStrap"
         />
       </Col>
     </Row>
