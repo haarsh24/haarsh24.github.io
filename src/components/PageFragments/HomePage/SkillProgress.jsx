@@ -33,7 +33,7 @@ const SkillsProgress = () => (
         />
         <ProgressBar
           percent={90}
-          text="Mysql"
+          text="Spring Boot"
         />
         <ProgressBar
           percent={78}
