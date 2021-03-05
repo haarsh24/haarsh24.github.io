@@ -19,8 +19,8 @@ module.exports = [
       name: 'Rolwin Reevan',
       short_name: 'Rolwin Reevan',
       start_url: '/',
-      background_color: '#304CFD',
-      theme_color: '#304CFD',
+      background_color: '#C651CD',
+      theme_color: '#363636',
       display: 'standalone',
       icon: 'src/images/icon.png', // This path is relative to the root of the site.
       legacy: true, // this will add apple-touch-icon links to <head>. Required for
@@ -97,7 +97,7 @@ module.exports = [
     resolve: 'gatsby-plugin-nprogress',
     options: {
       // Setting a color is optional.
-      color: 'black',
+      color: 'white',
       // Disable the loading spinner.
       showSpinner: true,
     },

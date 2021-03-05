@@ -9,8 +9,12 @@ const ProgressBar = (props) => {
         <Progress
          
           percent={percent || 0}
+          showInfo={false}
           strokeWidth={22}
           status="active"
+          strokeColor="#C651CD"
+ 
+         trailColor="#242424"
         
         />
       </div>
@@ -18,11 +22,12 @@ const ProgressBar = (props) => {
         position: 'absolute',
         marginTop: '-22px',
         marginLeft: '15px',
-        color: 'white',
+        color: '#100F10',
         fontSize: '14px',
+        showInfo:'false'
       }}
       >
-        <span>{ text || '' }</span>
+        <span>{text|| '' }</span>
       </div>
     </div>
   );
