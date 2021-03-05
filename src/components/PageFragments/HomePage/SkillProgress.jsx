@@ -29,19 +29,11 @@ const SkillsProgress = () => (
       <Col xs={24} sm={24} md={12} >
         <ProgressBar
           percent={70}
-<<<<<<< HEAD
           text="Microservices"
         />
         <ProgressBar
           percent={90}
           text="MySql"
-=======
-          text="Angular"
-        />
-        <ProgressBar
-          percent={90}
-          text="Spring Boot"
->>>>>>> 978cc9674000e0c4e73a96d9f3daf519f22777f6
         />
         <ProgressBar
           percent={78}
@@ -49,11 +41,7 @@ const SkillsProgress = () => (
         />
         <ProgressBar
           percent={80}
-<<<<<<< HEAD
           text="AWS"
-=======
-          text="BootStrap"
->>>>>>> 978cc9674000e0c4e73a96d9f3daf519f22777f6
         />
       </Col>
     </Row>
