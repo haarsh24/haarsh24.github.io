@@ -12,7 +12,7 @@ const ProgressBar = (props) => {
           showInfo={false}
           strokeWidth={22}
           status="active"
-          strokeColor="#C651CD"
+          strokeColor="#FBFBFF"
  
          trailColor="#242424"
         

@@ -20,7 +20,7 @@ module.exports = [
       short_name: 'Kumar Harsh',
       start_url: '/',
       background_color: '#C651CD',
-      theme_color: '#363636',
+      theme_color: '#151418',
       display: 'standalone',
       icon: 'src/images/icon.png', // This path is relative to the root of the site.
       legacy: true, // this will add apple-touch-icon links to <head>. Required for
