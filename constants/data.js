@@ -59,7 +59,7 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1mhEFj_WfByv5PJuZ1fqejPMlpjrQaM6O/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/haarsh24",
+    instagram: "https://instagram.com/haarshn",
     twitter: "https://twitter.com/codeandchords",
     linkedin: "https://linkedin.com/in/kumarharshn",
     github: "https://github.com/haarsh24",
