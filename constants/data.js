@@ -26,7 +26,11 @@ const userData = {
       title: "LIT UI",
       link: "https://litui.netlify.app",
       imgUrl: "/litui.png",
-    },
+    },{
+      title: "Browser Extension",
+      link: "https://lets-focus.netlify.app/",
+      imgUrl: "/browser-extension.gif",
+    }
     
   ],
   about: {
