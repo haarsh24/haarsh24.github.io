@@ -45,10 +45,17 @@ const userData = {
     currentProjectUrl: "https://sneakerxclub.netlify.app",
   },
   experience: [
+{
+      title: "R&D Engineer",
+      company: "Dassault systèmes",
+      year: "2022 - Present",
+      companyLink: "https://3ds.com",
+      desc: " Currently Working as a Research and Development Engineer  ",
+    },
     {
       title: "Software Developer",
       company: "UST",
-      year: "2020 - Present",
+      year: "2020 - 2022",
       companyLink: "https://ust.com",
       desc: "Developed web portal for IOT based connected vehicle project . Made ReactJs Started Kit for the company ",
     },
