@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "haarsh24",
   name: "Kumar Harsh",
-  designation: "Frontend Developer",
+  designation: "R & D Engineer",
   avatarUrl: "",
   email: "kumarharsh241998@gmail.com",
   phone: "+91 7667583725",
